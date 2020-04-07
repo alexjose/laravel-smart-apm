@@ -1,0 +1,16 @@
+{
+    "name": "alexjose/smart-apm",
+    "description": "Application Performance Monitoring Tool for Laravel Apps",
+    "type": "library",
+    "require": {
+        "laravel/framework": "5.6",
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "authors": [
+        {
+            "name": "Alex Jose",
+            "email": "alexjose4u@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
